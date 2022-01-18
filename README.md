@@ -1,7 +1,7 @@
-- 👋 Hi, I’m @AbhishekMamgain7
+- 👋 Hi, I’m Abhishek Mamgain
 - 👀 I’m interested in coding
 - 🌱 I’m currently learning python
-- 💞️ I’m looking to collaborate on ...
+- 💪 I'm a begginer...
 - 📫 How to reach me abhishekmamgain799@gmail.com or AbhishekMamgain666#8044
 
 <!---
